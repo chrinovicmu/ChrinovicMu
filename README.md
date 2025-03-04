@@ -1,7 +1,7 @@
 ## Hi
--I like computers
--Accused C elitist 
--Most projects are private 
+-I like computers<br>
+-Accused C elitist <br>
+-Most projects are private<br> 
 
 <!--
 **ChrinovicMu/ChrinovicMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
