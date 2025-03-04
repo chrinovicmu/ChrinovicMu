@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi
+-I like computers 
 
 <!--
 **ChrinovicMu/ChrinovicMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
