@@ -1,7 +1,6 @@
-## Hi
--I like Computer Systems<br>
+Computer Systems Programmer. Writing C like it’s 1991. I fix what annoys me, break what bores me, and learn what scares me.
 <!--
-**ChrinovicMu/ChrinovicMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChrinovicMu/ChrinovicMu** is a_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
