@@ -1,4 +1,4 @@
-Computer Systems Programmer. Writing C like it’s 1991. I fix what annoys me, break what bores me, and learn what scares me.
+Computer Systems Programmer.<br> Writing C like it’s 1991.<br> I fix what annoys me,<br> break what bores me,<br> and learn what scares me.<br>
 <!--
 **ChrinovicMu/ChrinovicMu** is a_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
